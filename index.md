@@ -4,23 +4,17 @@ title: About
 ---
 ## **Experience**
 ---
-**Therap (BD) Ltd.** <br />
-*Software Engineer, QA (Oct 2019 - Present)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
-* Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-* Sed lacinia tristique ligula, at egestas augue gravida quis.
-
-**Sourcetop, Inc** <br />
-*Jr. Software Engineer (Feb 2018 – Aug 2018)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
+**BRAC University Computer Club.** <br />
+*Member, HR (Jan 2016 - Jan 2018)*
+* Managed Some Events
 * Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 * Sed lacinia tristique ligula, at egestas augue gravida quis.
 
 ## **Education**
 ---
 **BRAC University** <br />
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)* <br />
-CGPA: **3.71** (out of **4.00**)
+*Bachelor of Science in Computer Science and Engineering (Jan 2016 - present)* <br />
+CGPA: **3.52** (out of **4.00**)
 
 ## **Honors & Achievements**
 ---
