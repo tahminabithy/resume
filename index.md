@@ -14,7 +14,7 @@ title: About
 ---
 **BRAC University** <br />
 *Bachelor of Science in Computer Science and Engineering (Jan 2016 - present)* <br />
-CGPA: **3.52** (out of **4.00**)
+CGPA: **3.62** (out of **4.00**)
 
 ## **Honors & Achievements**
 ---
@@ -30,7 +30,7 @@ CGPA: **3.52** (out of **4.00**)
 
 ## **Skills**
 ---
-* **Languages:** Java, C++, SQL
+* **Languages:** Java
 * **Technologies:** Git, Linux
 * **Tools:** JIRA
 
